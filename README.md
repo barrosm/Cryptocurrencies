@@ -1,2 +1,2 @@
 # Cryptocurrencies
-R routines - cryptocurrencies
+R routines - analyzing cryptocurrencies
